@@ -22,6 +22,8 @@ The system should compute:
 * Total monthly cashback.
 * A **visual breakdown (dashboard)** of total spends by category.
 
+The system should support for multiple cards with different rules, User when uploading file should be prompted to select card variant. 
+
 ---
 
 ## 📝 Sample Card Cashback Rule (Airtel Axis Card)
@@ -96,7 +98,6 @@ The system should compute:
 
 ## 🚀 Extension Ideas
 
-* Support for **multiple cards** with different rules
 * UI with Streamlit or Flask
 * Import rules from JSON or YAML
 
