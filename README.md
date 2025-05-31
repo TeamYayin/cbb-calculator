@@ -86,11 +86,10 @@ The system should support for multiple cards with different rules, User when upl
 
 ---
 
-## 📦 How to Run
+## 📦 How to Run & Instructions to submit
 
-1. Fork the repo
-2. Clone the repo
-   `git clone https://github.com/your-org/cashback-calculator.git`
+1. Create a new private repo in your account
+2. Add py563 or TeamYayin as a contributor to the repo
 3. Add your script and update the read me to include run instructions like  `python cashback_calculator.py transactions.csv`
 4. Please include a dependencies file, such as package.json or requirements.txt, without this, your submission would be considered invalid
 5. We will monitor your commits also while evaluating
